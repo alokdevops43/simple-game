@@ -3,6 +3,10 @@
 A simple browser game built using HTML, CSS, and JavaScript.
 
 The objective is to click the moving box as many times as possible to increase your score.
+##Live link
+
+https://alokdevops43.github.io/simple-game/
+
 
 ## 🚀 Features
 
