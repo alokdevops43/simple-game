@@ -75,7 +75,7 @@ This project helps practice:
 
 ## 👨‍💻 Author
 
-Sahil Choudhary
+ALOK Choudhary
 
 GitHub: https://github.com/alokdevops43
 
